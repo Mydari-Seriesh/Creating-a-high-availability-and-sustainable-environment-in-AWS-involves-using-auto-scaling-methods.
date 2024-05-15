@@ -384,4 +384,3 @@ Testing load balancer:
 
 ![image](https://github.com/Mydari-Seriesh/Creating-a-high-availability-and-sustainable-environment-in-AWS-involves-using-auto-scaling-methods./assets/169886237/37b1c6e3-b073-41f0-843d-fa15be9271ce)
 
-![image](https://github.com/Mydari-Seriesh/Creating-a-high-availability-and-sustainable-environment-in-AWS-involves-using-auto-scaling-methods./assets/169886237/42307e80-7d09-432d-a814-a30eeac17f87)
